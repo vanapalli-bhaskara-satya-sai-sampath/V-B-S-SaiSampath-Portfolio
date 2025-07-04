@@ -224,7 +224,6 @@ body {
   background: #ffb703;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   .intro {
     flex-direction: column;
